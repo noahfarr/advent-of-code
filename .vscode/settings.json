@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./advent-of-code/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
